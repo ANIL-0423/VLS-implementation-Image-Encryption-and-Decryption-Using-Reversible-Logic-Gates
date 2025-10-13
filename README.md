@@ -76,7 +76,7 @@ Each pixel block uses a unique key for encryption and decryption.
 
 | Stage | Image |
 |--------|--------|
-| Original | ![original](images/original.png) |
+| Original | ![original](D:\DATA IMP PRSNL\GITHUB\VLSI Implementaion of Image Encryption and\IMAGE_ENCRYPTION) |
 | Watermarked | ![watermarked](images/watermarked.png) |
 | Encrypted | ![encrypted](images/encrypted.png) |
 | Decrypted | ![decrypted](images/decrypted.png) |
